@@ -1,0 +1,4 @@
+CREATE TABLE skills (
+    id UUID PRIMARY KEY,
+    skill_name VARCHAR(100) UNIQUE NOT NULL
+);

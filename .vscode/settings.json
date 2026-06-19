@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "db.uyrkiavllcksrbpeycre.supabase.co",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "placemux",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "9900"
+        }
+    ]
+}
