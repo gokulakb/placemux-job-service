@@ -264,45 +264,4 @@ Server:
 
 ```text
 http://localhost:5000
-```
 
----
-
-# Database Tables
-
-* companies
-* skills
-* jobs
-* job_skill_thresholds
-* assessment_links
-* job_events
-
----
-
-# Definition of Done Achieved
-
-✔ Company can publish jobs with skill thresholds.
-
-✔ Per-job assessment links generated.
-
-✔ Threshold rules engine implemented.
-
-✔ Job-post events validated.
-
-✔ Jobs-posted view live.
-
-✔ Real data persisted in PostgreSQL (Supabase).
-
-✔ End-to-end API demo completed.
-
----
-
-# Author
-
-K B Gokula
-
-B.Tech – Artificial Intelligence and Machine Learning
-
-REVA University
-
-PlaceMux Phase 2 Industry Immersion Program
